@@ -1,4 +1,4 @@
 MonBlog
 =======
 
-C'est mon blog et il est super très bien
+Projet simple destinant à être intégré à la plateforme amazon ec2
